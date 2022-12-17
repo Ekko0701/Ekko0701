@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Ekko0701
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 김동주 ( Kim Dong Joo)
+
+#### Mobile iOS App Developer
+
+- 🌱 Portfolio: <https://detailed-leo-c43.notion.site/58fa73ab30154a34b723d3d8188f6f7d>
+- 🌱 Blog: <https://ekko.tistory.com/>
+- 📫 Email: <djekko0701@gmail.com>
 
 <!---
 Ekko0701/Ekko0701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
