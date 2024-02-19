@@ -1,8 +1,6 @@
 ## 김동주 ( Kim Dong Joo)
 
 #### Mobile iOS App Developer
-
-- 🌱 Portfolio: <https://detailed-leo-c43.notion.site/58fa73ab30154a34b723d3d8188f6f7d>
 - 📫 Email: <djekko0701@gmail.com>
 
 <!---
